@@ -103,11 +103,11 @@ textarea {
     align-items: center;
     justify-items: center;
 }
-h1{
-    color: pink; 
+body{
+    background-color: hotpink;;
 }
 .tenor-gif-embed{
-    border: 20px solid pink; 
+    border: 20px solid hotpink; 
 }
 
 
