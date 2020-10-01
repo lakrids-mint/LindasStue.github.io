@@ -99,10 +99,16 @@ textarea {
 
 .frame{
     display: flex; 
-    
+    flex-direction: column;
+    align-items: center;
+    justify-items: center;
 }
-
-
+.h1{
+    color: pink; 
+}
+.tenor-gif-embed{
+    border: 2px solid pink; 
+}
 
 
 
