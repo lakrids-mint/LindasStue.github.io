@@ -108,12 +108,12 @@ textarea {
   
   
   .frame{
-    width: 1000px;
+    width: 100%;
     height: auto;
     display: flex;
     align-items: center;
     justify-content: center;
-    margin: 100px;
+    margin: 0;
   }
 
   .image{
@@ -124,10 +124,14 @@ textarea {
   }
 
 
-  @media only screen and (max-width: 600px) {
+  @media only screen and (min-width: 900px) {
+    body{
+        background-color: #b3d4fc;
+
+    }
     .frame{
-        width: 100%;
-        
+        width: 1000px;
+        margin: 100px;
       }
   }
 
