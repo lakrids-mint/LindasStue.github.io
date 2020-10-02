@@ -123,11 +123,11 @@ textarea {
     border: 10px solid hotpink;
   }
 
-
+/* DESKTOP */
   @media only screen and (min-width: 900px) {
     body{
-        background-color: #b3d4fc;
-
+        padding-top: 15%;
+        padding-bottom: 15%;
     }
     .frame{
         width: 1000px;
