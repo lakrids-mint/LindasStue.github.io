@@ -14,7 +14,6 @@ html {
     color: #222;
     font-size: 1em;
     line-height: 1.4;
-	background-color: #FFF;
 }
 
 /*
@@ -114,6 +113,7 @@ textarea {
     display: flex;
     align-items: center;
     justify-content: center;
+    margin: 100px;
   }
 
   .image{
